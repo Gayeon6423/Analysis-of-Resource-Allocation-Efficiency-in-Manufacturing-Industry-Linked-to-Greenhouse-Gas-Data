@@ -132,7 +132,7 @@
 
 - 보고서 및 발표자료
 
-![각 변수 도출 계산](https://github.com/Gayeon6423/Analysis-of-Resource-Allocation-Efficiency-in-Manufacturing-Industry-Linked-to-Greenhouse-Gas-Data/assets/113704015/40472a72-696e-48b9-a4a2-f5f2a2b57c44)
+https://drive.google.com/file/d/1xm32y4Wg1k-_wunLZi2q-ceDnJxa0Vfx/view?usp=sharing
 
 - 코드
 
